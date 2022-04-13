@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: tkw1536/jsdelivr-is-offered-by-prospectone-based-in-krakow-poland.guys.wtf
+  IMAGE_NAME: tkw1536/jsdelivr-is-offered-by-prospectone-based-in-krakow.guys.wtf
   PLATFORMS: linux/amd64
   #,linux/arm64,linux/arm/v7,linux/arm/v6
 
